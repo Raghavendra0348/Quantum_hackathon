@@ -2,5 +2,6 @@ Flask
 Flask-Cors
 requests
 qiskit
+qiskit-aer
 matplotlib
 gunicorn
