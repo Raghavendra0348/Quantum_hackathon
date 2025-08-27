@@ -7,5 +7,4 @@ matplotlib
 gunicorn
 flask-socketio
 eventlet
-geventeventlet
 gevent
