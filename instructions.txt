@@ -1,19 +1,6 @@
-how to run:
-1.start the flask backend:
-     source ~/Documents/quantum_dashboard/venv/bin/activate          
-     cd ~/Documents/quantum_dashboard
-     python app.py
-
-2.opening frontend:
-     cd Documents/quantum_dashboard/templates
-     python3 -m http.server 8000
-     Open any browser:
-          http://localhost:8000/home/a-raghavendra/Desktop/quantum_dashboard1/quantum_dashboard
-
-flask
-flask-cors
+Flask
+Flask-Cors
 requests
 qiskit
 matplotlib
 gunicorn
-
